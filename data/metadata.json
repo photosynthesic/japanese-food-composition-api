@@ -1,0 +1,11 @@
+{
+  "title": "日本食品標準成分表（八訂）増補2023年",
+  "version": "8th_edition_supplement_2023",
+  "source": "文部科学省 科学技術・学術審議会 資源調査分科会",
+  "url": "https://www.mext.go.jp/a_menu/syokuhinseibun/mext_00001.html",
+  "license": "政府標準利用規約2.0 (CC BY 4.0互換)",
+  "generated_at": "2025-08-13T08:43:13.819Z",
+  "data_date": "2023-04-28",
+  "total_foods": 2545,
+  "categories": 18
+}

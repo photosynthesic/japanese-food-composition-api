@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "name": "穀類",
+    "sheet_name": "1穀類",
+    "food_count": 215
+  },
+  {
+    "id": 2,
+    "name": "いも及びでん粉類",
+    "sheet_name": "2いも及びでん粉類",
+    "food_count": 77
+  },
+  {
+    "id": 3,
+    "name": "砂糖及び甘味類",
+    "sheet_name": "3砂糖及び甘味類",
+    "food_count": 38
+  },
+  {
+    "id": 4,
+    "name": "豆類",
+    "sheet_name": "4豆類",
+    "food_count": 120
+  },
+  {
+    "id": 5,
+    "name": "種実類",
+    "sheet_name": "5種実類",
+    "food_count": 53
+  },
+  {
+    "id": 6,
+    "name": "野菜類",
+    "sheet_name": "6野菜類",
+    "food_count": 420
+  },
+  {
+    "id": 7,
+    "name": "果実類",
+    "sheet_name": "7果実類",
+    "food_count": 192
+  },
+  {
+    "id": 8,
+    "name": "きのこ類",
+    "sheet_name": "8きのこ類",
+    "food_count": 63
+  },
+  {
+    "id": 9,
+    "name": "藻類",
+    "sheet_name": "9藻類",
+    "food_count": 65
+  },
+  {
+    "id": 10,
+    "name": "魚介類",
+    "sheet_name": "10魚介類",
+    "food_count": 478
+  },
+  {
+    "id": 11,
+    "name": "肉類",
+    "sheet_name": "11肉類",
+    "food_count": 324
+  },
+  {
+    "id": 12,
+    "name": "卵類",
+    "sheet_name": "12卵類",
+    "food_count": 30
+  },
+  {
+    "id": 13,
+    "name": "乳類",
+    "sheet_name": "13乳類",
+    "food_count": 66
+  },
+  {
+    "id": 14,
+    "name": "油脂類",
+    "sheet_name": "14油脂類",
+    "food_count": 41
+  },
+  {
+    "id": 15,
+    "name": "菓子類",
+    "sheet_name": "15菓子類",
+    "food_count": 194
+  },
+  {
+    "id": 16,
+    "name": "し好飲料類",
+    "sheet_name": "16し好飲料類",
+    "food_count": 71
+  },
+  {
+    "id": 17,
+    "name": "調味料及び香辛料類",
+    "sheet_name": "17調味料及び香辛料類",
+    "food_count": 155
+  },
+  {
+    "id": 18,
+    "name": "調理済み流通食品類",
+    "sheet_name": "18調理済み流通食品類",
+    "food_count": 63
+  }
+]
