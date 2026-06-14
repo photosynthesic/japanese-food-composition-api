@@ -5,6 +5,9 @@ node_modules/
 .DS_Store
 .env*
 
+# Build artifact（配信方針は #13 で決定するまで未追跡）
+dist/
+
 # Keep raw data but ignore backup files
 raw-data/*.bak
 raw-data/*.tmp

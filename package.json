@@ -1,12 +1,14 @@
 {
   "name": "japanese-food-composition-api",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "文部科学省の「日本食品標準成分表（八訂）増補2023年」をJSON形式で配信する静的API",
   "main": "index.js",
   "scripts": {
     "analyze": "node analyze-excel.js",
+    "analyze:fatty-acid": "node analyze-fatty-acid.js",
     "convert": "node scripts/convert-excel.js",
-    "build": "yarn convert && cp -r data/* dist/data/",
+    "convert:fatty-acid": "node scripts/convert-fatty-acid.js",
+    "build": "yarn convert && yarn convert:fatty-acid && mkdir -p dist/data && cp -r data/* dist/data/",
     "update": "node scripts/update-data.js"
   },
   "packageManager": "yarn@4.5.1",

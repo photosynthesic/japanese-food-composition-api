@@ -4,8 +4,25 @@
   "source": "文部科学省 科学技術・学術審議会 資源調査分科会",
   "url": "https://www.mext.go.jp/a_menu/syokuhinseibun/mext_00001.html",
   "license": "政府標準利用規約2.0 (CC BY 4.0互換)",
-  "generated_at": "2025-08-13T08:43:13.819Z",
+  "generated_at": "2026-06-14T00:45:47.130Z",
   "data_date": "2023-04-28",
   "total_foods": 2545,
-  "categories": 18
+  "categories": 18,
+  "fatty_acid": {
+    "title": "日本食品標準成分表（八訂）増補2023年 脂肪酸成分表編",
+    "source": "文部科学省 科学技術・学術審議会 資源調査分科会",
+    "url": "https://www.mext.go.jp/a_menu/syokuhinseibun/mext_00001.html",
+    "table": "第1表 可食部100g当たりの脂肪酸成分表（本表）",
+    "columns": [
+      "飽和脂肪酸",
+      "n-3系多価不飽和脂肪酸",
+      "n-6系多価不飽和脂肪酸"
+    ],
+    "unit": "g/100g",
+    "foods_with_fatty_acid": 1967,
+    "total_foods": 2538,
+    "foods_without_fatty_acid": 571,
+    "null_convention": "本表に収載され脂肪酸成分表編に収載のない食品は、脂肪酸3カラムが null（未測定）。",
+    "value_convention": "括弧付き推計値は実数として保持（本表の negligible 正規化とは異なる）。Tr / (Tr) は trace、- は null。"
+  }
 }
